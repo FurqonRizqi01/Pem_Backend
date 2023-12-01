@@ -24,4 +24,4 @@ const main = () => {
   destroy(0);
 };
 
-main();
+main(); 
