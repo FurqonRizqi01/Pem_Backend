@@ -1,7 +1,7 @@
 {
-  "name": "task-pertemuan-11",
+  "name": "task-pertemuan-12",
   "version": "1.0.0",
-  "description": "Task Pertemuan 11",
+  "description": "Student API",
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js"

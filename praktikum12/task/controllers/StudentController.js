@@ -1,6 +1,4 @@
-// TODO 3: Import data students dari folder data/students.js
-// code here
-const { request } = require("express");
+// import model student
 const Student = require("../models/Student")
 
 class StudentController {
